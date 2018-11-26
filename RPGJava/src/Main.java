@@ -2,6 +2,13 @@
 package mapping;
 import java.util.Scanner;
 
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+			System.out.println("Hello World");
+			System.out.println(" Worlhuehufh");
+	}
+
+
 
 public class main{
 	// ici on crée la map
